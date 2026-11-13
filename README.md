@@ -1,6 +1,6 @@
 # Kółko i Krzyżyk: Implementacja MCTS, Minimax oraz Analiza Wydajności
 
-Projekt powstał na podstawie opracowania naukowego *[Tytuł / Link do artykułu]* i przedstawia kompletną implementację algorytmów przeszukiwania drzewa gry dla kółka i krzyżyka ($3 \times 3$), ich optymalizację oraz eksperymentalną ewaluację skuteczności.
+Projekt powstał na podstawie artykułu naukowego [**"Monte Carlo Tree Search: A Tutorial"** (Michael C. Fu, *Proceedings of the 2018 Winter Simulation Conference*)](./021.pdf) i przedstawia kompletną implementację algorytmów przeszukiwania drzewa gry dla kółka i krzyżyka ($3 \times 3$), ich optymalizację oraz eksperymentalną ewaluację skuteczności.
 
 ---
 
